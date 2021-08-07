@@ -1,0 +1,71 @@
+How To Start SEO.
+
+terms:
+  * hot: high search volume & low competition
+  * 
+
+1. identify hot short-tail keyword (i.e., big word) based on:
+  - your business (what is the advantage/uniqueness of your business / what services, products, information your business can provide visitors)
+
+2. find its hot long-tail keywords of your short-tail
+  - use tools like Google Keyword Planner to find HOT keywords
+
+3. grouping long-tail keywords together to decide whether a new page should be created or not.
+
+  - each long-tail keyword has its own user intent and if those long-tail keywords have the same intent, you should group them together.
+
+4. write content for its each long-tail keyword (long-tail keyword SEO)
+
+  - figure out the primary keyword, its related keywords, its support keywords, its questions, user intent
+
+    - primary keyword: your main keyword in head terms.
+    - secondary keywords: your supporting keyword in head terms. 
+    - related/supporting keywords: filtered & suggested keyword list of your main keywords
+    - questions: ??? use tool or google SERP??? - currently use "Extract People Also Ask" chrome extension. I couldn't find any free tool esp Japanese.
+    - user intent: used to decide the format (i.e., SERP features) 
+
+    ex)
+        main keywords: "sushi restraurant"
+        
+        primary keyword: "restaurant"
+        secondary keyword: "sushi"
+        related/supporting: "cheap", "best", etc... based on the criteria & suggested keyword list
+
+  * tips: 
+
+    - related/supporting keyword research tools:
+      - expand the idea of the main keywords:
+        - google trends
+        - google keyword planner
+        - google search console (queries tab) 
+      - filter the R/S keywords
+        - ubersuggest
+    
+
+    - identify the user intent for each R/S keyword
+
+      - check the SERP for the keyword and figure out the user intent 
+
+    - construct the content the based on the user intents
+
+  - Moz Recommendation
+
+    - URL: primary keyword
+    - title tag: primary + secondary keywords
+    - meta description: primary + secondary + related/supporting keywords
+    - page title (e.g., <h1>): primary + secondary keywords
+    - subheadings (e.g., <h2>, <h3>, ... ): secondary + question keywords
+    - body content: primary + seconary + related/support keywords 
+    - image alt text: primary + secondary + R/S keywords
+    - SERP features: user intent
+
+6. write a content for the short-tail keyword after you got enough authoritativeness & higher positions of the long-tail keywords (short-tail keyword SEO)
+
+  - specifically, create the summary content for each long-tail keywords
+    
+    - write the summary of each long-tail keyword and put the link to it in the content
+
+
+
+
+
