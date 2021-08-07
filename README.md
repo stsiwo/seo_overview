@@ -22,6 +22,7 @@
   - also, it can be understood as how the flow of a page's ranking power passes from one link to another. If a very authoritative page includes a followed link to a smaller site's article, it can be interpreted as a vote of confidence for the linked page, passing a certain amount of authority via that followed link.
   - if you get a backlink from famouse website, you get higher link equity and your site tend to be get higher rank. although there are a lot of other ranking factors.
   - Link Equity is determined by the facts like relevancy between one page and another, the site (put the link) is authoritative (e.g., famouse), is the link is followed, and so on. check [this](https://moz.com/learn/seo/what-is-link-equity) for more detail.
+  - __cornerstone content__: an aggregated/summary page for other several detail pages
 
 
 here are important concepts of SEO
@@ -81,6 +82,10 @@ it is important to create your site architecture like this:
 
 ![Ideal Site Architecture For SEO](./ideal-site-architecture-with-link.png "Ideal Site Architecture For SEO")
 
+- this is the minimum amount of links possible.
+- you can have more links for each page.
+- all pages are somehow connected by internal links to spread link equity.
+- use internal links more to the more important page so that the crawler can understand which page is more important.
 
 ## Url
 
