@@ -17,7 +17,11 @@
 - __PageRank__: an algorithm to calculate a value of each web page as a score then decide its rank on the SERP.
 - __RankBrain__: an AI/ML to update the rank of SERPs. for example, if the lower ranked page provide more better content than the higher ranked page, it switches the rank.
 - __Click Through Rate (CTR)___: the percentage of people who click on your ad after seeing your ad 
-- 
+- __Site Authority__: a score (0 - 100) about how well a specific page ranks in the SERP. (developed by Moz)
+- __Link Equity (Link Juice)__: a value that is passed from one page to another, and the value is one of ranking factors. 
+  - also, it can be understood as how the flow of a page's ranking power passes from one link to another. If a very authoritative page includes a followed link to a smaller site's article, it can be interpreted as a vote of confidence for the linked page, passing a certain amount of authority via that followed link.
+  - if you get a backlink from famouse website, you get higher link equity and your site tend to be get higher rank. although there are a lot of other ranking factors.
+  - Link Equity is determined by the facts like relevancy between one page and another, the site (put the link) is authoritative (e.g., famouse), is the link is followed, and so on. check [this](https://moz.com/learn/seo/what-is-link-equity) for more detail.
 
 
 here are important concepts of SEO
@@ -27,6 +31,10 @@ here are important concepts of SEO
 ### Why
 
 generally, backlinks are good for SEO since it is a proof that other website trusts you, but it might affect differently base on the type of backlinks. for example, if famouse website has backlink to your web page, it would affect your SEO positively. on the other hands, if bad website put backlink to your web page, it might affect SEO negatively.
+
+#### followed
+
+the backlink must be followed otherwise, you don't get the link equity. (e.g., no follow attribute of the link)
 
 #### diversity of Domains / Types
 
@@ -55,7 +63,9 @@ generally, backlinks are good for SEO since it is a proof that other website tru
 
 ### Why
 
-1. helps SE find the page easily.
+1. helps SE find the page easily since links is a core of discovering a page
+2. useful to establish site architecture and spreading link equity.
+3. helps Google understand what the page is about by checking the surrounding text and internal anchor text.
 
 ## Url
 
@@ -102,6 +112,11 @@ define the following tags for seo:
     - pogo-sticking (clicking on an organic result and then quickly returning to the SERP to choose anotehr result.
   
 based on thoes result, RankBrain decline/promote your page
+  
+### Other Signals
+  
+- link equity by backlink
+  
   
 ## Check List
   
