@@ -306,7 +306,7 @@ BEST: use MEANINGFUL_&_DESCRIPTIVE_LINK_TEXT in the anchor tag as text
 
 - [ ] DO use <img> or <picture> element to  display.
 
-  - <picture> : load different image based on its screen size. see more detail.
+  - <picture> : load different image based on its screen size. see more [detail](https://www.w3schools.com/html/html_images_picture.asp).
 
 - [ ] DON'T use CSS (e.g., 'background-image') to display image. the image which is displayed by CSS is not indexed by Google.
 
