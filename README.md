@@ -64,8 +64,23 @@ the backlink must be followed otherwise, you don't get the link equity. (e.g., n
 ### Why
 
 1. helps SE find the page easily since links is a core of discovering a page
-2. useful to establish site architecture and spreading link equity.
-3. helps Google understand what the page is about by checking the surrounding text and internal anchor text.
+2. useful to spread link equity.
+  - for example, if page (A) gets backlink from another domain which means that the page A receive the link equity. then, if the Page A has internal links to another page (B) (in the same domain), the link equity is passed to the page B. then it also boosts SEO ranking for the page B.
+  - therefore, each page should have internal links to all other pages directly or indirectly so that link quity is distributed to all the page in your website. the amount of value that is distributed depends on the position where the link is put. if the internal link is put at the footer less value is passed to the page and if the internal link is put at the main content, the more value is passed to the page.
+3. helps crawler establish site architecture 
+4. helps Google understand what the page is about by checking the surrounding text and internal anchor text.
+
+### Refs
+
+  - [internal-link](https://moz.com/learn/seo/internal-link)
+  - [link position](https://moz.com/blog/the-anatomy-of-a-link#link-position)
+
+## Site Architecture 
+
+it is important to create your site architecture like this:
+
+![Ideal Site Architecture For SEO](./ideal-site-architecture-with-link.png "Ideal Site Architecture For SEO")
+
 
 ## Url
 
