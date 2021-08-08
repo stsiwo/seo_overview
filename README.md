@@ -101,6 +101,7 @@ a minor ranking signal, but the users less likely to click the weird URL (since 
   - remove unnecessary/duplicated name (e.g., /categories/category-car/car1 => /cars/volvo)
   - use only (-) but other special chars like (_), (+), ( )
   - always use lower-case (not Camel-case, Upper-Case)
+3. don't ever change/update the url already in use. this affect all of traffic to the page.
 
 
 ## HTML 
@@ -234,6 +235,8 @@ LINKS are primary way the crawlers follow to the other pages!!!
 - [ ] DON'T use generic page names like 'page1.html'
 
 - [ ] DON'T USE EXCESSIVE KEYWORDS LIKE "baseball-cards-baseball-cards-baseballcards.html"
+  
+- [ ] DON'T update/change the url once it is already in use.
 
 #### Directory Structure (of your website project)
 
