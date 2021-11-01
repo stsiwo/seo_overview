@@ -1,0 +1,9 @@
+google says that below pages still exists even if it return 500/404.
+
+* https://bactivityhair.com/search-result?category=category2
+* https://bactivityhair.com/search-result?category=%E7%BE%8E%E5%AE%B9%E5%AD%A6%E7%94%9F
+* https://www.bactivityhair.com/search-result?keyword=
+* https://bactivityhair.com/search-result?category=%E7%BE%8E%E5%AE%B9%E5%B8%AB%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88
+* 
+
+need to find out the solution. like changing path (e.g., search-result => search)
